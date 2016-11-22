@@ -1,0 +1,15 @@
+#header{
+ width: 100%;
+ hight:80px;
+ background-color: yellow;
+}
+
+.left{
+width:30%;
+ background-color: blue;
+}
+
+.right{
+width:70%;
+ background-color: red;
+}
