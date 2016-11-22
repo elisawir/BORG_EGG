@@ -9,6 +9,7 @@ font-size: 90px;
 
 .left{
 width:30%;
+ height: 100%;
  background-color: #E1F7D5 ;
  font-family: arial;
  float: left;
@@ -16,6 +17,7 @@ width:30%;
 
 .right{
 width:70%;
+ height: 100%;
  background-color: #C9FFCB;
  font-family: arial;
  float: right;
