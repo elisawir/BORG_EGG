@@ -1,17 +1,22 @@
 #header{
  width: 100%;
  height:80px;
- background-color: yellow;
+ background-color: #4BA600;
 }
 
 .left{
 width:30%;
- background-color: green;
+ background-color: #32C236 ;
  float: left;
 }
 
 .right{
 width:70%;
- background-color: red;
+ background-color: #C9FFCB;
  float: right;
+}
+
+h5{
+color:violet;
+font-style: italic;
 }
