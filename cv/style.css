@@ -1,15 +1,17 @@
 #header{
  width: 100%;
- hight:80px;
+ height:80px;
  background-color: yellow;
 }
 
 .left{
 width:30%;
  background-color: blue;
+ float: left;
 }
 
 .right{
 width:70%;
  background-color: red;
+ float: right;
 }
