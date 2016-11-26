@@ -1,11 +1,12 @@
 #header{
  width: 100%;
  height: 200px;
-background-color: #4BA600;
+background: linear-gradient(red, yellow);
 font-family: arial;
 color: #ffffff;
 font-size: 90px;
 text-align: center;
+ box-shadow: 10px 10px 5px grey;
  }
 
 .left{
@@ -13,11 +14,10 @@ width:20%;
  background-color: #E1F7D5 ;
  font-family: arial;
  float: left;
- box-shadow: 10px 10px 5px grey;
 }
 
 .right{
-width:70%;
+width:80%;
  background-color: #C9FFCB;
  font-family: arial;
  float: right;
