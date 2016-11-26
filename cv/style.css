@@ -17,14 +17,15 @@ width:20%;
 }
 
 .right{
-width:80%;
- background-color: #C9FFCB;
- font-family: arial;
- float: right;
+  width:80%;
+  background-color: #C9FFCB;
+  font-family: arial;
+  float: right;
 }
 
 .button {
-    background-color: #4CAF50; /* Green */
+    background-color: #B9FF15; 
+    width:80%;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -32,6 +33,7 @@ width:80%;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    float: right;
 }
 
 h3{
