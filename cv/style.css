@@ -10,11 +10,11 @@ text-align: center;
  }
 .toolbar{
 width: 100%;
- height: 200px;
-background: linear-gradient(#B9FF15, #4BFF15);
+ height: 50px;
+background: #B9FF15;
 font-family: arial;
 color: #ffffff;
-font-size: 90px;
+font-size: 20xp;
 text-align: center;
 }
 
