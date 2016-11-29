@@ -25,7 +25,7 @@ width:20%;
 
 .button {
     background-color: #B9FF15; 
-    width:90%;
+    width:25%;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -33,7 +33,7 @@ width:20%;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    float: right;
+    float: center;
 }
 
 h3{
@@ -47,4 +47,10 @@ p{
 
 li{
 font-family: arial;
+}
+
+@media screen and (max-width: 600px) {
+ .left .right{
+  width: 100%;
+ }
 }
