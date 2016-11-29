@@ -9,9 +9,13 @@ text-align: center;
 
  }
 .toolbar{
-width:100%
-height: 50px;
- background: red;
+width: 100%;
+ height: 200px;
+background: linear-gradient(#B9FF15, #4BFF15);
+font-family: arial;
+color: #ffffff;
+font-size: 90px;
+text-align: center;
 }
 
 .left{
